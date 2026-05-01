@@ -1,4 +1,4 @@
-# mmpR5 Pipeline v3 — Modular Google Colab Notebooks
+# mmpR5 Pipeline v3
 
 End-to-end pipeline for *Mycobacterium tuberculosis* **mmpR5 (Rv0678)** variant discovery,
 structural annotation, and bedaquiline (BDQ) resistance classification.
